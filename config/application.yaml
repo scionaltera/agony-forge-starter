@@ -1,0 +1,5 @@
+spring:
+    freemarker:
+        template-loader-path: file:/opt/mud/templates/
+    resources:
+        static-locations: file:/opt/mud/static/
